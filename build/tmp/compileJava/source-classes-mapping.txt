@@ -1,0 +1,4 @@
+com/myaws/controller/AWSRestController.java
+ com.myaws.controller.AWSRestController
+com/myaws/Application.java
+ com.myaws.Application
